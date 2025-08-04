@@ -1,6 +1,5 @@
-# Deloitte-delemetry-analysis
-Analysis of telemetry data collected by Daikibo factories using Tableau to assess machine downtime
 # Daikibo Telemetry Data Analysis
+Analysis of telemetry data collected by Daikibo factories using Tableau to assess machine downtime
 
 This repository contains the analysis of telemetry data collected from Daikibo's four factories. The data was analyzed using Tableau to identify machine downtime and performance across locations.
 
